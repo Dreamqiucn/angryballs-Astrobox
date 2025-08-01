@@ -1,7 +1,7 @@
 {
   "item": {
     "name": "愤怒的小球",
-    "description": "一款2D物理引擎游戏，玩家需要通过控制小球的发射角度和力度，击倒场景中的敌人。游戏玩法与《愤怒的小鸟》类似，共有5种小球类型，红球，蓝球，黄球，黑球，与大红球，它们的特性不同，比如加速，分裂，爆炸等。游戏内置自带40关的同时，玩家可以下载安卓端创意工坊软件进行DIY关卡编辑与分享到社区和下载其他玩家制作的关卡，下载链接请前往米坛资源帖子或官方网站 https://dreamqiu.cn 下载。售价3.5元，购买请前往爱发电，发售首周 7.31-8.6 特价9折优惠。",
+    "description": "一款2D物理引擎游戏，玩家需要通过控制小球的发射角度和力度，击倒场景中的敌人。游戏玩法与《愤怒的小鸟》类似，共有5种小球类型，红球，蓝球，黄球，黑球，与大红球，它们的特性不同，比如加速，分裂，爆炸等。游戏内置自带40关的同时，玩家可以下载安卓端创意工坊软件进行DIY关卡编辑与分享到社区和下载其他玩家制作的关卡，下载链接请前往米坛资源帖子或官方网站 https://dreamqiu.cn 下载。售价3.5元，购买请前往爱发电，发售首周 7.31-8.6 特价9折优惠。1.0.2 增加拖动小球时屏幕锁定",
     "preview": [
       "preview1.png",
       "preview2.png",
@@ -22,28 +22,28 @@
   },
   "downloads": {
     "n66": {
-      "version": "1.0.1",
-      "file_name": "9_com.Dreamqiu.AngryBird.release.1.0.1.rpk"
+      "version": "1.0.2",
+      "file_name": "9_com.Dreamqiu.AngryBird.release.1.0.2.rpk"
     },
     "n67": {
-      "version": "1.0.1",
-      "file_name": "9p_com.Dreamqiu.AngryBalls.release.1.0.1.rpk"
+      "version": "1.0.2",
+      "file_name": "9p_com.Dreamqiu.AngryBalls.release.1.0.2.rpk"
     },
     "o66": {
-      "version": "1.0.1",
-      "file_name": "10_com.Dreamqiu.AngryBird.release.1.0.1.rpk"
+      "version": "1.0.2",
+      "file_name": "10_com.Dreamqiu.AngryBird.release.1.0.2.rpk"
     },
     "o66nfc": {
-      "version": "1.0.1",
-      "file_name": "10_com.Dreamqiu.AngryBird.release.1.0.1.rpk"
+      "version": "1.0.2",
+      "file_name": "10_com.Dreamqiu.AngryBird.release.1.0.2.rpk"
     },
-    "o65m": {
-      "version": "1.0.1",
-      "file_name": "rw_com.Dreamqiu.AngryBird.release.1.0.1.rpk"
+        "o65m": {
+      "version": "1.0.2",
+      "file_name": "rw_com.Dreamqiu.AngryBird.release.1.0.2.rpk"
     },
     "o65": {
-      "version": "1.0.1",
-      "file_name": "rw_com.Dreamqiu.AngryBird.release.1.0.1.rpk"
+      "version": "1.0.2",
+      "file_name": "rw_com.Dreamqiu.AngryBird.release.1.0.2.rpk"
     }
   }
 }
